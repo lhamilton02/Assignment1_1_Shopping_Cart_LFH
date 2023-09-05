@@ -1,6 +1,11 @@
+/**
+ * Tests the functionality of the ShoppingCart class.
+ *
+ * @author lhamilton2
+ */
 public class Application {
     public static void main(String[] args) {
-        // Create a shopping cart
+        // Instantiate a shopping cart
         ShoppingCart<Item> shoppingCart = new ShoppingCart<>();
 
         // Add items to the cart
