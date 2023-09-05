@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * ShoppingCart represents a shopping cart that can hold items and perform various operations.
+ * Represents a shopping cart.
  *
  * @param <T> The type of items that the shopping cart can hold, extending the Item class.
  * @author lhamilton02
