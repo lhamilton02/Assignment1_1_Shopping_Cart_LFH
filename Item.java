@@ -1,5 +1,7 @@
-/**@author lhamilton2
- * Item represents an item that can be added to a shopping cart.
+/**
+ * Represents an item that can be added to a shopping cart
+ *
+ * @author lhamilton2
  */
 public class Item {
     private String name;
@@ -61,4 +63,4 @@ public class Item {
     public String toString() {
         return name + " ($" + price + ")";
     }
-}//end class
+}
